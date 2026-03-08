@@ -26,6 +26,7 @@
 
 - 陈绍轩  
 - 李林灿
+- 易女士
 ## 下载
 
 - [点击下载最新版本 (ZIP)](https://github.com/crunch7/easytd/archive/main.zip)
